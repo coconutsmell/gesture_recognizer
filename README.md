@@ -1,1 +1,1 @@
-# gesture_recognizer
+# mediapipe-tasks
